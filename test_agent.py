@@ -6,12 +6,13 @@ import tempfile
 
 # Test data
 TEST_DATA = {
-    'HSNCode': ['01', '0101', '010110', '010210', '02', '0201', '020110'],
+    'HSNCode': ['01', '0101', '010110', '010210', '01021010', '02', '0201', '020110'],
     'Description': [
         'Live animals',
         'Live horses, asses, mules and hinnies',
         'Pure-bred breeding animals',
         'Other live horses',
+        'Detailed horse classification',
         'Meat and edible meat offal',
         'Meat of bovine animals, fresh or chilled',
         'Carcasses and half-carcasses'
