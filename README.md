@@ -19,13 +19,19 @@ pip install -r requirements.txt
 
 ## Usage
 
-run the command
+=> Add your Gemini API key to the .env file 
+=> Run the command
 
 ```bash
 adk web
-# or
+```
+
+from the root directory to load the HSN_agent or
+
+```python
 adk run HSN_agent
 ```
+To run the agent in the local terminal
 
 ## Features
 
