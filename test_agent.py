@@ -1,7 +1,7 @@
 import pytest
 import pandas as pd
 import os
-from agent import Agent
+from agent101 import Agent
 import tempfile
 
 # Test data
